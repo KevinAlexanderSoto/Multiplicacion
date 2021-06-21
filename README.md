@@ -7,4 +7,4 @@ Opciones:
   -l, --list     list the multiplication table       [booleano] [defecto: false]
   -h, --hasta    hasta donde quiero la multiplicacion     [número] [defecto: 10]
 ```
-mi primer programa con node   
+mi primer programa con node, me tira las tablas de multiplicacion en un .txt   
